@@ -1,0 +1,110 @@
+gratest common divisor
+gcd (a,b) = gcd (b, a % b)
+gcd (p,0) = gcd(0 , p) = p
+
+2ta number er moddhe cto number nite hbe 
+& 2ta number er vag sesh ber korte hbe & eta repeate
+ex: gcd(15,6) = gcd(6,3) = gcd(3,0) = 3 
+ex: gcd(15,8) = gcd(8,7) = gcd(7,1) = gcd = (1,0) = 1 co - prime
+
+
+Least Common Multiple
+
+lcm (a,b)
+
+gcd (a,b) * lcm (a,b) = a*b
+
+
+ex: lcm(15,6)
+gcd(15,6) = gcd(6,3) = gcd(3,0) = 3 
+lcm(15,6) = 15*6/3 = 30
+
+ex: lcm(20,10)
+gcd(20,10) = gcd(10,0) = 10
+lcm(20,10) = 20*10/10 = 20
+
+https://goodcalculators.com/gcd-lcm-calculator/
+
+
+FACTORIAL:
+n! = n * (n-1)*(n-2)*(n-3) * ... * 3 * 2 * 1
+
+ex: 4! = 4 * 3 * 2 * 1 = 24
+ex: 0! = 1
+ex 5! = 5 * 4 * 3 * 2 * 1 = 120
+
+
+MATRIX / MATRICES: collection of number
+      	
+    | -2  5  6	|  = 2 by 3 metrix  
+A = |  5  2  7	|  
+		   = | -2  5  6	| = 1 by 3 BA row matrix
+		   = | -2  5  6	| = 3 by 1 BA col matrix
+    
+A is matrix = 2 rows & 3 column
+
+A 2,3 = ?
+
+
+
+pow & root
+
+5^3 = 5 * 5 * = 125
+root x^/a = x
+then x^n = a
+
+ex: 2^/16 = 4   square root  = 3 thakle quib root
+    4 * 4 = 16
+
+
+SET: a collection of objects
+
+infinite / finite = osim / sosim
+
+A = {10,12,29} b={101,12,10,29,32}
+a er val v er moddhe ache
+so A is Subset of B
+
+univarsal set:
+ x ={all}
+
+empty/null set
+ x = {} or fi 0 not
+
+
+
+
+u = {1,2,3,4,5,6,7,8,9,10,11,12,13}
+A = {1,2,3,4,7}
+B = {3,4,5,6}
+C = {4,6,7,8,9}
+
+Union
+A&B er union U = 
+A U B ={1,2,3,4,5,6,7}
+
+InterSection Ulta U
+A U B = {3,4}
+
+Completenet
+universal set theke nite hbe
+A | =  {5,6,8,9,10,11,12,13}
+so eta holo a er complement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

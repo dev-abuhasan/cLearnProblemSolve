@@ -1,0 +1,137 @@
+Points & lines:
+	Tow diff points
+	Connect them	
+	Take the straight pat, also shrtest
+	This is called line segment
+		finite length
+	Line extended in both ends
+		infinite length
+	Ray extended in one end
+
+Angle:
+	Between tow rays exteding from the same point
+	Circular arc to annotate
+	Full rotation = 360 degrees
+	Angle 90deg hole taha holo ek somokon ba right angle
+	Acute Angle < 90deg > Obtuse Angle
+
+
+Coordinate System:
+	Ref point, dir, distance etc
+	One dimensional coordinate system
+	2D Coordinate sys 
+		x axis horizontal
+		y axis vertical
+	intersection point origin(0,0)
+	
+	3D Coordinate sys
+		(x,y,x)
+	
+
+Some Geometric shapes:
+	Triangle:
+		3 point & 3 line 
+		sum of three angles - 180deg
+		area = 1/2 * base * height
+
+		isosceles triangle -> somodi bahu triangle -> 2ta bahu soman
+		Equilateral trinagles -> somo bahu -> 3ta bahu e soman -> each bahu 60deg -> 180/3
+		Right angle triangle -> ekta kon 90 deg hole right angle ba somokoni triangle -> 180 - 90 - 45 - 45
+		Scalene triangele -> ekta bahu o soman noi
+	Square:
+		4 points 4 lines segments
+		all sides are equal
+		each angle is 90deg
+		sum of four angles is 360deg
+		area: (side_length)^2
+		length of diagonal root2 * (side_length)
+
+	pythagorean theorem:
+		-c^2 = a^2 + b^2
+		dAB = root (x1-x2)^2 + (y1 -y2)^2
+
+	Rectangle:
+		4 poinis 4 line segments
+		Opposite side are equal
+		each angle 90deg
+		sum of four angles is 360deg
+		area: length * height	
+
+	Circle:
+		Center -> bashardo
+		Radius -> half distan of circle
+		Diameter -> readius er double
+		area = pi * (radius)^2	
+
+
+Seris ba Dhara:
+	Sequence: 
+		1,3,5,7,9
+	fibonacchi 
+		1,1,2,3,4,5,8,13
+	
+	finite vs infinre serise
+	
+	Arithmetic vs Gerometric series
+		arithemetic serion jog kore => diff ta fixed like 5 => 1 + 6 + 11 + 16 + 21 ...
+		geometric gun kore pauya jai => diff ta fixed 3 gun => 2 + 6 + 18 + 54 ...
+
+	
+n soongkhok natural num er jogfol kto
+	1 + 2 + 3 + 4 + 5 = ?
+
+
+	s = 1 + 2 + 3 + 4 + 5 
+	s = 5 + 4 + 3 + 2 + 1
+     + 2s = 6 + 6 + 6 + 6 + 6
+       2s = 30
+	s = 30/15
+	s = 15	
+
+	
+	s =   1   +   2   +   3   + ... +   N 
+	s =   N   + (N-1) + (N-2) +  2  +   1
+     + 2s = (N+1) + (N+1) + (N+1) + ... + (N+1)
+       2s = N*(N+1)
+	s = N*(N+1)/2
+
+
+	ex = 5 * (5 + 1) / 2 = 15	
+
+
+	Arithimetic series
+		A = 2 + 5 + 8 + ...
+	Find the 100th number in this series
+	Find the sum of first 100 num
+
+	nth term in arthemetic series: a + ( n -1 ) * d
+	100th numnber A  = 2 + 99 * 3 = 299
+	ex: 3rd term  A = 2 + 2 * 3 = 8
+	
+	sum of first n terms: n/2{2a + (n-1) * d}
+			= 100 / 2 {2 * 2 + (100 -1) * 3} = 15050
+
+
+	50th numbr 
+		    a + ( n -1 ) * d
+		A = 2  + (50-1) * 3 = 149
+		
+		n/2{2a + (n-1) * d}
+		= 50 / 2 {2 * 2 + (50-1) * 3}	 
+	
+		= 25 {4 + 49 * 3}
+		= 25 * 151
+
+
+	
+	
+
+	
+	
+
+ 	
+	
+
+
+
+

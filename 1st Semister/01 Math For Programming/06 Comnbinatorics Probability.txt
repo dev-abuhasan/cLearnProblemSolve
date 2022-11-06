@@ -1,0 +1,9 @@
+Combinatorics:
+
+n^C>r -> Combinator problem -> Choose a way
+n^P>r -> Permutation problem -> arrange a way 
+
+
+Probability:
+
+	p(event) = num of way happen/num of all possible outcoms

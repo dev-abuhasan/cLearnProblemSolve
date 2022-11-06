@@ -1,0 +1,82 @@
+Unitary: ঐকিক
+
+me & 6 go restautant, all order same food total bill was 1218 taka
+now if me & 2 go and order same food so what would be bill now?
+cost 7 person = 1218
+cost 1 person = 1218/ 7 = 174
+cost 3 person = 147 * 3 = 522
+
+
+Tom Finish homework 15hrs, Jerry takes 10hrs, How many hrs need them to same work done at a time
+Tom 1hrs work = 1/15 homework/hrs
+Jerry 1hrs work = 1/10 homework/hrs
+Tom & Jarry 1hrs of work combine = (1/15 + 1/10) homework = 1/6 homewwork
+ans: they need 6 hrs
+
+
+Percentage:
+per hundred quantity
+	you gave test 10 marks, You score was 32
+	waht if score is? if marks 100
+
+	with unitary: 40 score = 32 marks
+			1 score = 32 / 40
+			100 score = ( 32/40 ) * 100 = 80
+
+	
+	ratio with: 100% = 100* 1/100 = 1
+			 (32/40) * 100 = 80%
+
+
+	A cloth store popular products 870 taka after 40% discount, what is the real price	
+	x *(100-40) = x*60/100 = 870
+	x = 870 * 100/60 = 1450
+	
+
+	Q: price of oil increase 25% and then decreased by 15%. Waht is the net percent oil price?
+	Let's assume the ini price was = 100 -> x	
+	Increase 25% Up Price = 100 + 25
+	Dcrease 15% Reduce to = 100 -15 = 85% 
+	Update price = 125 * 85% = 125 * 85/100 = 106.25
+	so init price = 100, increace 25% price = 125, decrease 15% proce = 106.25
+	final price is more than 100
+	Net increase (106.25 -100) = 6.25 if the orginal price was 100 (per hundread)
+	Ans: increase by 6.25%
+
+	
+	INTEREST: Simple - Compound Interest
+	I = P * n * r
+	Interest = Capita; * Time unit * Interest rate
+	My frnd deposits 7000tk in Sonali bank for 3 yrs which earn him an interst of 8%
+	what is the amout he get after 3yrs?
+	I = 7000 * 3 * 8  /100
+	I = 1680
+	
+	You deposit 5400tk & get 6000tk after 2yrs. Find the simple interest rate of the bank?
+	r = ?, p =5400, n=2, i = 6000-5400 = 600
+	r = 1/18 = 1/18*100% = 5.56%
+	
+
+MEAN & MEDIAN
+	Mean: Given some numbers
+
+	X^- = 1/n   n /Sumission/ i=1   X>i 
+
+
+	Q, buget ee food nao
+	money from 6 frnds : 103,210,57,85,500,180
+	103+210+57+85+500+180 / 6 = 189.167
+	ek jon er jnno 189.167 eto takar food order kora jabe
+
+	Median: 
+		Give Some num
+		Sort them ascending	
+		Take the num found at the middle
+		If count is ODD
+			MIddile one is Unique
+		If count is even
+			There are tow element in middle
+			Take avarage of those tow
+
+	
+

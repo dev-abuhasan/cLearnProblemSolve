@@ -1,0 +1,77 @@
+23
+1, 23
+2 - 23/2 = floor(11.5) = 11 2nd method
+root(23) = floor(4.79) = 4
+4 porjonto gelei hbe ekn 
+1 * 23 = 23
+2 * 11 = 22 integer diya hoi na
+3 * 7 = 21  integer diya hoi na
+4 * 5 = 20  integer diya hoi na
+er mane holo 23 er divisro 1, 23
+
+
+root(24) = floor(4.89) = 4
+4 porjonto gelei hbe
+24 / 1 = 24
+24 / 2 = 12
+24 / 3 = 8
+24 / 4 = 6
+ekn  er divisor holo 1,2,3,4,6,8,12,24
+
+root(25) = floor(5) = 5
+5 porjonto gelei hbe
+25 / 1 = 25
+25 / 2 = 12.5
+25 / 3 = 8.33
+25 / 4 = 6.25
+25 / 5 = 5
+ekn  er divisor holo 1,2,25
+
+
+root(53) = floor(7.28) = 7
+5 porjonto gelei hbe
+25 / 1 = 25
+25 / 2 = 12.5
+25 / 3 = 8.33
+25 / 4 = 6.25
+25 / 5 = 5
+ekn  er divisor holo 1,2,25
+
+
+root(72) = floor(8.48) = 8
+2 to 8 porjonto gelei hbe
+
+72 / 2 = 36
+72 / 3 = 24
+72 / 4 = 18
+72 / 5 = 14.4
+72 / 6 = 12
+72 / 7 = 10.28
+72 / 8 = 9
+ekn  er divisor holo 1,2,3,4,6,8,9,12,18,24,36, 72
+
+
+root(13211) = floor(11.48) = 11
+2 to 8 porjonto gelei hbe
+
+132 / 2 = 66
+132 / 3 = 44
+132 / 4 = 33
+132 / 5 = 26.4
+132 / 6 = 22
+132 / 7 = 18.85
+132 / 8 = 16.5
+132 / 9 = 14.66
+132 / 10 = 13.2
+132 / 11 = 12
+
+ekn  er divisor holo 1, 2, 3, 4, 6, 11, 12, 22, 33, 44, 66, 132
+
+
+SAVE OF ERATHOSTHENES
+
+
+
+EXTRACT VALUE
+Floor (n/10^i) % 10 = (n/10^i) % 10
+
